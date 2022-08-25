@@ -1,0 +1,15 @@
+Package: enigma2-plugin-prins-py2-ajpanel
+Version: tarek
+Depends: enigma2
+Section: prins
+Architecture: all
+MD5Sum: afc740191284e08439f8e13fa1028cc2
+Size: 257
+Filename: enigma2-plugin-prins-py2-ajpanel_tarek_all
+Description: enigma tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
