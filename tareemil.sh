@@ -10,4 +10,4 @@ opkg update
 reboot
 sleep 2;
 exit 0
-ww
+wweee
